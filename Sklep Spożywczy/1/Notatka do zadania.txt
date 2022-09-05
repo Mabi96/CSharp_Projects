@@ -1,0 +1,10 @@
+Przesyłam Panu dwa pliki:
+
+Pracownicy -  z dwoma już przygotowanymi pracownikami(można ich modyfikować dodawać itd.)
+Kalendarz - z godzinami na czerwiec dni robocze 15 godzin weekendy 10 godzin.
+Jeżeli jednak chciałby pan sprawdzić funkcjonalność raportów i grafiku proponowałbym zrobić na tydzień aby widzieć dokładnie godziny aby nic się nie mieszało
+
+Funkcjonalność kalendarza sprawdzałem działa dodałem ten kod jak może pan zauważyć aby pogrubiał czcionke zaplanowanych dni.
+
+monthCalendar1.AddBoldedDate(dr.Data);
+Natomiast działa przy przechodzeniu między miesiącami.
